@@ -2,6 +2,7 @@
 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/en/6/6b/TfGM.svg)
+![alt text](https://www.soundpound.co.uk/wp-content/uploads/SoundPound-1-580x600.png)
 
 This project was commisioned by the SoundPound group with a brief to create a tool that will match an entered postcode with one of their credit unions eligible for the Transport for greater Manchester bus pass. 
 
