@@ -1,8 +1,8 @@
 # Sound Pound credit union matcher
 
-![image](https://github.com/user-attachments/assets/cfcb2abf-e23c-4e8b-a5c9-226675f16bde)
-![image](https://github.com/user-attachments/assets/94d87bd5-cf3f-4e8a-bef2-236adeb1e37d)
 
+<img src="https://github.com/user-attachments/assets/7f196369-0a50-4b26-89fe-1c79403a2f46" alt="drawing" width="200"/>
+<img src="https://github.com/user-attachments/assets/94d87bd5-cf3f-4e8a-bef2-236adeb1e37d" alt="drawing" width="200"/>
 
 
 This project was commisioned by the SoundPound group with a brief to create a tool that will match an entered postcode with one of their credit unions eligible for the Transport for greater Manchester bus pass. 
