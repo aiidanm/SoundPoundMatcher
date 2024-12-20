@@ -10,9 +10,9 @@
 
 This project was commisioned by the SoundPound group with a brief to create a tool that will match an entered postcode with one of their credit unions eligible for the Transport for greater Manchester bus pass. 
 
-After working with the Soundpound team to find out exactly what they wanted in the brief and how they wanted the design to look. I made the decision to stick with a JSON file containing Postcodes / credit union key value pairs. The tool will then use the npm "postcode" plugin that will extract / verify entered text. Convert it to a correct postcode format, i then run this throuhg the JSON file. I then use a seperate lookup table to match a Credit Unions name with its Logo, apply link and full Name. If any errors are found, then i will return an error. 
+After working with the Soundpound team to find out exactly what they wanted in the brief and how they wanted the design to look. I made the decision to stick with a JSON file containing Postcodes / credit union key value pairs. The tool will then use the npm "postcode" plugin that will extract / verify entered text. Convert it to a correct postcode format, i then run this through the JSON file. I then use a seperate lookup table to match a Credit Unions name with its Logo, apply link and full Name. If any errors are found, then i will return an error. 
 
-This tool was shared through a marketing campaign directly by Transport for Greater Manchester on Buses, social media and web. It was also shared directly with payroll partners including Manchester NHS foundation trust who forwarded this on in an email to their 28,000 members. 
+It was shared directly with payroll partners including Manchester NHS foundation trust who shared this on in an email to their 28,000 members. 
 
 The tool has allowed the SoundPound group to direct customers towrads it, and then each credit union recieves the correct applications. So far the tool has seen over 3000 unique visitors. 
 
