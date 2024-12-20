@@ -1,4 +1,4 @@
-# Sound Pound credit union matcher
+# SoundPound credit union matcher
 
 <img src="https://github.com/user-attachments/assets/852b0849-a92a-4078-87a2-b82e7d8f0344" alt="drawing" width="800"/>
 &nbsp;
