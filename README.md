@@ -1,8 +1,8 @@
 # Sound Pound credit union matcher
 
-<img src="https://github.com/user-attachments/assets/852b0849-a92a-4078-87a2-b82e7d8f0344" alt="drawing" width="200"/>
+<img src="https://github.com/user-attachments/assets/852b0849-a92a-4078-87a2-b82e7d8f0344" alt="drawing" width="800"/>
 &nbsp;
-<img src="https://github.com/user-attachments/assets/7f196369-0a50-4b26-89fe-1c79403a2f46" alt="drawing" width="500"/>
+
 
 
 
